@@ -1,0 +1,128 @@
+{
+  "title": "How can we create a durable intergenerational technology community?",
+  "status": "initial question landscape; no operational validation yet",
+  "parent_purpose": "Increase the density and variance of useful technological and institutional encounters, expand the ambitions and capabilities reachable by youth and adults, and create a stable community whose value persists across careers and generations.",
+  "questions": [
+    {
+      "id": "Q01",
+      "question": "What makes adults return over years, rather than merely volunteer once?",
+      "hypotheses": [
+        "Shared intellectual interests and peer relationships provide intrinsic value.",
+        "A recurring cadence and low coordination burden improve continuity."
+      ],
+      "investigate": [
+        "Compare communities sustained by member interest with ones dependent on volunteer obligation.",
+        "Interview engineers about what would make them attend repeatedly."
+      ],
+      "first_probe": "Host recurring small meetups around an interesting technical topic; observe repeat participation and reasons for returning or not."
+    },
+    {
+      "id": "Q02",
+      "question": "What kinds of experiences actually expand a youth's landscape of possibilities?",
+      "hypotheses": [
+        "Varied demonstrations, industry talks, projects and informal conversations can reveal unfamiliar possibilities without requiring immediate mastery."
+      ],
+      "investigate": [
+        "Compare engineer talks, tours, open build sessions and youth-led demonstrations.",
+        "Ask participants what new questions, projects or opportunities they discovered."
+      ],
+      "first_probe": "Invite one engineer to discuss their industry and public technical work, then invite youth to identify something they had not known existed."
+    },
+    {
+      "id": "Q03",
+      "question": "How do we convert a youth's ambition into access to relevant constituent capabilities?",
+      "investigate": [
+        "Map available expertise, equipment, public resources and affordable substitutes against actual member ambitions.",
+        "Identify where coordination or access fails."
+      ],
+      "first_probe": "Help one youth decompose a real project into constituents and connect them to existing people, resources and tools."
+    },
+    {
+      "id": "Q04",
+      "question": "How can youth take on genuine paid operational responsibility while adults preserve continuity and accountability?",
+      "investigate": [
+        "Study youth employment, supervision, role handoffs, pay funding and appropriate responsibilities.",
+        "Find precedents for youth-operated facilities and distinguish paid work from volunteering."
+      ],
+      "first_probe": "Test one bounded operational responsibility with clear support and handoff; arrange compensation and compliant supervision before paid work."
+    },
+    {
+      "id": "Q05",
+      "question": "How much institutional exposure can be provided through ordinary board activity?",
+      "hypotheses": [
+        "Rotating optional seats reduce exclusivity; participation and questions enable tacit organizational learning."
+      ],
+      "investigate": [
+        "Study youth governance participation models and confidentiality boundaries.",
+        "Identify accessible transport and safe supervision arrangements."
+      ],
+      "first_probe": "At a future appropriate meeting, invite two or three interested youth, arrange approved transportation/reimbursement, reserve confidential matters, and ask what they found useful."
+    },
+    {
+      "id": "Q06",
+      "question": "Which functions require a dedicated physical space, and which can begin without one?",
+      "investigate": [
+        "Compare shared venues, partner workshops, mobile makerspaces, libraries and owned facilities.",
+        "Estimate recurring costs, supervision, insurance, storage, and access."
+      ],
+      "first_probe": "Run a small project or speaker gathering in a borrowed venue before making any lease commitment."
+    },
+    {
+      "id": "Q07",
+      "question": "What can be realized at different levels of financing?",
+      "investigate": [
+        "Separate recurring obligations from one-time purchases.",
+        "Survey grants, sponsorships, member support, institutional partnerships and in-kind access.",
+        "Compare budgets and financial histories from existing organizations."
+      ],
+      "first_probe": "Draft costed scenarios from real venue, equipment, insurance, transportation and staffing inputs when a location and scope are chosen."
+    },
+    {
+      "id": "Q08",
+      "question": "How do otherwise promising communities become inactive, inaccessible, bureaucratic, or founder-dependent?",
+      "investigate": [
+        "Study failed and sustained makerspaces, volunteer groups, clubs and youth organizations.",
+        "Look for recurring causes rather than copying successful organizations' visible structures."
+      ],
+      "first_probe": "Gather contrasting case histories with sources; identify which mechanisms might apply here."
+    },
+    {
+      "id": "Q09",
+      "question": "How do we broaden participation without selecting only already advantaged or technically confident youth?",
+      "investigate": [
+        "Examine discovery, transport, cost, welcoming culture and entry points for beginners.",
+        "Talk to youth and community partners before prescribing solutions."
+      ],
+      "first_probe": "Invite participants with different levels of technical experience to a low-barrier gathering and observe who feels able to participate."
+    },
+    {
+      "id": "Q10",
+      "question": "How should our accumulated experiences remain useful to future members and personal AIs?",
+      "investigate": [
+        "Preserve original public sources, actual costs, decisions, failed attempts, context and concrete outcomes where useful.",
+        "Keep sensitive information in a controlled archive; avoid comprehensive tracking of individuals."
+      ],
+      "first_probe": "After the first real activity, write a short factual account of what happened and what changed in our thinking."
+    }
+  ],
+  "research_strategy": {
+    "source_families": [
+      "Existing makerspaces and hackerspaces",
+      "Youth-led and youth-employment organizations",
+      "Professional engineering societies and local chapters",
+      "Libraries and shared technical facilities",
+      "Science clubs, robotics teams, and project communities",
+      "Nonprofit annual reports, budgets, governance policies, and failure accounts",
+      "Interviews with practitioners and prospective youth participants"
+    ],
+    "comparison_dimensions": [
+      "Who participates and why they return",
+      "Youth agency and accessibility",
+      "Variety of technical encounters and actual projects",
+      "Resource ownership, operating costs, staffing, safety",
+      "Continuity beyond founders",
+      "Evidence of outcomes versus stated aspirations"
+    ],
+    "stop_rule": "Stop each investigation when it supports a consequential design decision or the next informative experiment; do not wait for an exhaustive survey."
+  }
+}

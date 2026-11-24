@@ -1,0 +1,72 @@
+{
+  "purpose": "Source map for future human and AI investigations. Preserve working links and the relevant source passage or artifact when it is useful and permissible. Do not confuse a reference with proof of an organizational outcome.",
+  "sources": [
+    {
+      "id": "S01",
+      "kind": "original thoughts",
+      "path": "../Thoughts/2026-11-24.json",
+      "relevance": "Founder's actual statements; source for proposed culture and mechanisms."
+    },
+    {
+      "id": "S02",
+      "kind": "methodology",
+      "url": "https://github.com/JadanPoll/Learning_Visualizations_Taxonomy/blob/main/Navigationals/The_Richer_Scientific_Method.md",
+      "relevance": "Question landscapes, competing explanations, empirical investigations and sufficient stopping points."
+    },
+    {
+      "id": "S03",
+      "kind": "methodology",
+      "url": "https://github.com/JadanPoll/Learning_Visualizations_Taxonomy/blob/main/Navigationals/The_Richer_Engineering_Method.md",
+      "relevance": "Work backward from goals, reuse working mechanisms, compare practical alternatives."
+    },
+    {
+      "id": "S04",
+      "kind": "intellectual reference",
+      "url": "https://github.com/JadanPoll/FKEN_Ecosystem",
+      "relevance": "Possibility landscapes, practical competence, communities, resources and accumulated knowledge."
+    },
+    {
+      "id": "S05",
+      "kind": "intellectual reference",
+      "url": "https://github.com/JadanPoll/FKEN_Ecosystem/blob/main/Practical_Knowledge/Familiarity_Layers.json",
+      "relevance": "Knowing of a possibility versus understanding, using or composing it."
+    },
+    {
+      "id": "S06",
+      "kind": "intellectual reference",
+      "url": "https://github.com/JadanPoll/FKEN_Ecosystem/blob/main/Research_Methods/Project_Population_Learning.json",
+      "relevance": "Exposure to diverse actual project attempts, mechanisms and failures."
+    },
+    {
+      "id": "S07",
+      "kind": "working project",
+      "url": "https://github.com/JadanPoll/Tacit_Virtual_Lab",
+      "relevance": "Example of accessible practical experiments without a fully equipped physical laboratory."
+    },
+    {
+      "id": "S08",
+      "kind": "separate organizational project",
+      "url": "https://github.com/JadanPoll/Our_Volunteering_Organization",
+      "relevance": "Potential transferable experience in youth organization, funding and community engagement; not the same organization."
+    }
+  ],
+  "future_source_families": [
+    {
+      "type": "organizational case studies",
+      "collect": "Primary accounts, operating models, actual participation, budgets and failures."
+    },
+    {
+      "type": "public fiscal evidence",
+      "collect": "Annual reports, public filings, grants, leases and real cost inputs when available."
+    },
+    {
+      "type": "firsthand experience",
+      "collect": "Public-safe interviews, event notes, project outcomes, what changed and why."
+    },
+    {
+      "type": "implementation resources",
+      "collect": "Speaker guides, safety resources, facility arrangements, public policies and real opportunity sources."
+    }
+  ],
+  "recording_principle": "Use lightweight source IDs and dated records where they help future retrieval. Keep enough context to distinguish aspirations, proposals, evidence and decisions. Avoid raw private data or indiscriminate collection."
+}

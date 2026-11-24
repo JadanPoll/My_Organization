@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-24",
+  "source": {
+    "type": "founding conversation",
+    "description": "Selected statements from the founder's conversation about a community makerspace, its board, and its long-term knowledge base.",
+    "scope": "Public-safe excerpts; original wording preserved, with no private conversation link."
+  },
+  "thoughts": [
+    {
+      "id": "T01",
+      "topic": "roles",
+      "verbatim": "On this job roles are financing, technologist, education, outreach and community engagement or finding speakers to come talk and inspire our tech youth"
+    },
+    {
+      "id": "T02",
+      "topic": "adult motivation and paid youth operations",
+      "verbatim": "For many of us “parents” the board is volunteer based where the intrinsic reward is really a way to keep ourselves ass tech together outside of work and NDA commitments, however we will have salary to compensate our youth staff, yes we will try to get it staffed by the tech youth while the more community county wide levels will be coordinated by us,"
+    },
+    {
+      "id": "T03",
+      "topic": "gathering places",
+      "verbatim": "Zoom calls, persistent meetups, coffee shops,"
+    },
+    {
+      "id": "T04",
+      "topic": "lateral responsibility",
+      "verbatim": "There isn’t a vertical promotion system, it’s more lateral based and granular responsibility uptake based you just take up more, there is a very flat and lateral ambition based structure/ motivation"
+    },
+    {
+      "id": "T05",
+      "topic": "lifelong contribution",
+      "verbatim": "Brings together the youth community in tech, a stable fulfilling contributive thing to do outside of work and the many different projects I might work on."
+    },
+    {
+      "id": "T06",
+      "topic": "board participation",
+      "verbatim": "Of course we would allow one or two people from the youth to optionally attend board meetings. That way we get diffusion of knowledge, experience, wisdom and talent"
+    },
+    {
+      "id": "T07",
+      "topic": "rotating participation",
+      "verbatim": "Oh I love the idea of rotation of youth. Like we say hey we have a board meeting on this date, 2-3 people are free to attend, we will provide rides and travel compensation, just let us know the night before st least"
+    },
+    {
+      "id": "T08",
+      "topic": "engineer talks",
+      "verbatim": "Oh and did I mention that there is opportunity for some of the engineers in our community to come in and give talks say about wheee they work at"
+    },
+    {
+      "id": "T09",
+      "topic": "knowledge lake",
+      "verbatim": "But the best time to start figuring this out really is now so at some point in time it serves as a “data lake” to feed into our personal ais to really figure this stuff out"
+    }
+  ],
+  "notes": [
+    "The number of youth seats evolved from one or two to two or three; the latter is the more recent proposed default, not an adopted policy.",
+    "Original phrasing is preserved here; Vision.md is an edited synthesis."
+  ]
+}
