@@ -8,6 +8,9 @@ This repository is both a place to develop the idea and an accumulating intellec
 
 ## Start here
 
+- [Google Drive research lake](https://drive.google.com/drive/folders/1ju5tLvAPqGQkWVurPkbZt_DBYotj2kZt) — original-source collections and initial navigable research indexes.
+- [Central personal AI lake](https://github.com/JadanPoll/Data_Lake_AI/blob/main/lake.json) — navigate across related projects.
+
 - [Vision](Vision.md) — the purpose, the relationship between adults and youth, and the proposed culture.
 - [Founding thoughts](Thoughts/2026-11-24.json) — selected original statements, with their provenance.
 - [Investigation landscape](Investigations/Community_Technology.json) — questions, hypotheses, useful evidence, and cheap ways to learn.

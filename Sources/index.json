@@ -48,6 +48,76 @@
       "kind": "separate organizational project",
       "url": "https://github.com/JadanPoll/Our_Volunteering_Organization",
       "relevance": "Potential transferable experience in youth organization, funding and community engagement; not the same organization."
+    },
+    {
+      "id": "S09",
+      "kind": "external research source",
+      "name": "The Clubhouse Network",
+      "url": "https://theclubhousenetwork.org/",
+      "relevance": "Youth projects, adult and peer mentors; site network and career exposure."
+    },
+    {
+      "id": "S10",
+      "kind": "external research source",
+      "name": "Clubhouse financial information",
+      "url": "https://theclubhousenetwork.org/about/financial-information/",
+      "relevance": "Annual reports and finances."
+    },
+    {
+      "id": "S11",
+      "kind": "external research source",
+      "name": "Artisans Asylum",
+      "url": "https://www.artisansasylum.com/",
+      "relevance": "Adult community workshop; access, memberships and volunteering."
+    },
+    {
+      "id": "S12",
+      "kind": "external research source",
+      "name": "Artisans Asylum organizational structure",
+      "url": "https://wiki.artisansasylum.com/wiki/Organizational_Structure",
+      "relevance": "Roles and operational organization."
+    },
+    {
+      "id": "S13",
+      "kind": "external research source",
+      "name": "Noisebridge filed bylaws",
+      "url": "https://www.noisebridge.net/images/4/47/Noisebridge-bylaws-as-filed.pdf",
+      "relevance": "Formal governance of a flat makerspace; document link only."
+    },
+    {
+      "id": "S14",
+      "kind": "external research source",
+      "name": "Noisebridge 2025 financial crisis",
+      "url": "https://missionlocal.org/2025/11/noisebridge-financial-crisis/",
+      "relevance": "Independent reporting; study tension between access and financial sustainability."
+    },
+    {
+      "id": "S15",
+      "kind": "external research source",
+      "name": "FIRST annual report and financials",
+      "url": "https://www.firstinspires.org/about/annual-report",
+      "relevance": "Mentorship, sponsors, programming and financial reports."
+    },
+    {
+      "id": "S16",
+      "kind": "external research source",
+      "name": "FIRST FY2025 and FY2024 audited financials",
+      "url": "https://www.firstinspires.org/hubfs/web/about/report/financial-statements-2025.pdf?hsLang=en",
+      "relevance": "Audited statements, link only."
+    },
+    {
+      "id": "S17",
+      "kind": "external research source",
+      "name": "Maker Ed yearly reports",
+      "url": "https://makered.org/about/our-impact/yearly-reports/",
+      "relevance": "Maker-learning program and funding history."
+    },
+    {
+      "id": "S18",
+      "kind": "external research source",
+      "name": "Annie E. Casey Foundation youth-adult partnership toolkit",
+      "url": "https://www.aecf.org/resources/advancing-youth-adult-partnership-a-tool-kit-for-shared-leadership-across-generations",
+      "relevance": "Youth influence, adult preparation, compensation and partnership mechanisms."
     }
   ],
   "future_source_families": [
@@ -68,5 +138,26 @@
       "collect": "Speaker guides, safety resources, facility arrangements, public policies and real opportunity sources."
     }
   ],
-  "recording_principle": "Use lightweight source IDs and dated records where they help future retrieval. Keep enough context to distinguish aspirations, proposals, evidence and decisions. Avoid raw private data or indiscriminate collection."
+  "recording_principle": "Use lightweight source IDs and dated records where they help future retrieval. Keep enough context to distinguish aspirations, proposals, evidence and decisions. Avoid raw private data or indiscriminate collection.",
+  "drive_research_lake": {
+    "url": "https://drive.google.com/drive/folders/1ju5tLvAPqGQkWVurPkbZt_DBYotj2kZt",
+    "collections": [
+      {
+        "name": "Organizations & Case Studies",
+        "url": "https://drive.google.com/drive/folders/183awJSZhQfjqHCJ43dqepdaW5fbQ86MT",
+        "index_file": "https://drive.google.com/open?id=1iF93K7eK-iqeNYI2SyrK47UB5GOnXjoG"
+      },
+      {
+        "name": "Fiscal Reports & Budgets",
+        "url": "https://drive.google.com/drive/folders/19HhS5nBFXPA4PpOyhWrjAZ1YRmCnAJJ2",
+        "index_file": "https://drive.google.com/open?id=1BhBkSoZ7KcMoi30qaigXFAPmAc5PIqgI"
+      },
+      {
+        "name": "Governance & Operating Models",
+        "url": "https://drive.google.com/drive/folders/1UTgPn8gpJoVg57oSkgIKoiiow-41Lld5",
+        "index_file": "https://drive.google.com/open?id=1JZ0VlLeoj1X1DknR6TkCXPd5ZQDdv2-1"
+      }
+    ],
+    "note": "Source indexes are uploaded. Original PDFs have not yet been archived because direct retrieval failed. Drive permissions are unchanged."
+  }
 }
