@@ -8,6 +8,8 @@ This repository is both a place to develop the idea and an accumulating intellec
 
 ## Start here
 
+**[Explore the research lake interactively](https://raw.githack.com/JadanPoll/Learning_Visualizations_Taxonomy/refs/heads/main/RSM_Tree_Viewer.html?repo=https%3A%2F%2Fgithub.com%2FJadanPoll%2FMy_Organization)** — open the shared RSM Tree Viewer to navigate the investigation landscape, original thoughts, references, and Drive collections.
+
 - [Google Drive research lake](https://drive.google.com/drive/folders/1ju5tLvAPqGQkWVurPkbZt_DBYotj2kZt) — original-source collections and initial navigable research indexes.
 - [Central personal AI lake](https://github.com/JadanPoll/Data_Lake_AI/blob/main/lake.json) — navigate across related projects.
 

@@ -1,0 +1,138 @@
+{
+  "mapping_version": "0.1",
+  "name": "My Organization — Community technology research lake",
+  "views": [
+    {
+      "id": "community-questions",
+      "title": "Community technology — Investigation landscape",
+      "file": "Investigations/Community_Technology.json",
+      "projection": {
+        "shape": "record",
+        "root": {
+          "kind": "investigation",
+          "label_field": "title",
+          "description_field": "parent_purpose"
+        },
+        "collections": [
+          {
+            "path": "questions",
+            "kind": "research_question",
+            "label_field": "question",
+            "description_field": "first_probe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "founding-thoughts",
+      "title": "Founding thoughts — November 24, 2026",
+      "file": "Thoughts/2026-11-24.json",
+      "projection": {
+        "shape": "record",
+        "root": {
+          "kind": "thought_collection",
+          "label": "Founding thoughts — November 24, 2026",
+          "description_field": "source.description"
+        },
+        "collections": [
+          {
+            "path": "thoughts",
+            "kind": "original_thought",
+            "label_field": "topic",
+            "description_field": "verbatim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "research-sources",
+      "title": "Research sources and organizational precedents",
+      "file": "Sources/index.json",
+      "projection": {
+        "shape": "record",
+        "root": {
+          "kind": "source_collection",
+          "label": "Research sources and organizational precedents",
+          "description_field": "purpose"
+        },
+        "collections": [
+          {
+            "path": "sources",
+            "kind": "reference",
+            "label_field": "name",
+            "description_field": "relevance",
+            "url_field": "url"
+          },
+          {
+            "path": "future_source_families",
+            "kind": "research_direction",
+            "label_field": "type",
+            "description_field": "collect"
+          }
+        ]
+      }
+    },
+    {
+      "id": "drive-lake",
+      "title": "Drive research lake",
+      "file": "Sources/index.json",
+      "projection": {
+        "shape": "record",
+        "root": {
+          "kind": "source_collection",
+          "label": "Drive research lake",
+          "description_field": "drive_research_lake.note"
+        },
+        "collections": [
+          {
+            "path": "drive_research_lake.url",
+            "kind": "research_view",
+            "scalar": true,
+            "label": "Open Google Drive research lake"
+          },
+          {
+            "path": "drive_research_lake.collections",
+            "kind": "research_view",
+            "label_field": "name",
+            "url_field": "url",
+            "collections": [
+              {
+                "path": "index_file",
+                "kind": "reference",
+                "scalar": true,
+                "label": "Open source index"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "home": {
+    "title": "My Organization — Explore the research lake",
+    "description": "Explore the ambition, open questions, original thoughts, actual organizations, and primary-source collections behind a durable intergenerational technology community.",
+    "return_label": "All organization research",
+    "featured": [
+      {
+        "view_id": "community-questions",
+        "label": "What are we trying to figure out?",
+        "description": "Ten foundational questions and proposed experiments."
+      },
+      {
+        "view_id": "founding-thoughts",
+        "label": "Original thinking",
+        "description": "Nine founding statements, preserved in their original words."
+      },
+      {
+        "view_id": "research-sources",
+        "label": "What can we learn from existing organizations?",
+        "description": "Research precedents, frameworks, and original vision."
+      },
+      {
+        "view_id": "drive-lake",
+        "label": "Browse the Drive data lake",
+        "description": "Case studies, fiscal records, and governance sources."
+      }
+    ]
+  }
+}
